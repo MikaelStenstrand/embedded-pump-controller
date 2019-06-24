@@ -28,4 +28,6 @@ Turn on automatic mode by long pressing the button. The light indicates the pump
 
 
 # Wire diagram
+The wire diagram show how the Arduino is setup for the project. The light bulb in the picture is the realy switch.
+
 ![arduino wire diagram](https://user-images.githubusercontent.com/5174743/60017200-ddabed80-9690-11e9-8005-9418ab7f838c.JPG)
