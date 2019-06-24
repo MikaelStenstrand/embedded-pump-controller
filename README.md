@@ -14,8 +14,9 @@ The setup consists of an Arduino Nano (ATmega328P) controlling a relay. The pump
 The device is now setup.
 
 ## How to use
-Manually switching pump on and off by pressing the button. The light indicates the pump state
-Turn on automatic mode by long pressing the button. The light indicates the pump state
+Manually switching pump on and off by pressing the button. The light indicates the pump state.
+
+Turn on automatic mode by long pressing the button. The light indicates the pump state.
 
 ## Pump state
 -	RED: pump is off
