@@ -23,3 +23,9 @@ Turn on automatic mode by long pressing the button. The light indicates the pump
 -	GREEN: pump is on
 -	YELLOW with blinking RED: automatic mode is on and pump is off
 -	YELLOW with blinking GREEN: automatic mode is on and pump is on
+
+
+
+
+# Wire diagram
+![arduino wire diagram](https://user-images.githubusercontent.com/5174743/60017200-ddabed80-9690-11e9-8005-9418ab7f838c.JPG)
