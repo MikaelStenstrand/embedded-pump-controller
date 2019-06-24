@@ -18,6 +18,8 @@ Manually switching pump on and off by pressing the button. The light indicates t
 
 Turn on automatic mode by long pressing the button. The light indicates the pump state.
 
+The controll unit features a safe mode. If the relay has been changed too rapidly it will enter a safe mode and turn off the pump. All leds will blink during safe mode. Reboot device to continue.
+
 ## Pump state
 -	RED: pump is off
 -	GREEN: pump is on
