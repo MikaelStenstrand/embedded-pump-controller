@@ -1,4 +1,4 @@
-# Hot Tub Pump
+# Embedded Pump Controller
 Arduino project for controlling the pump of a hot tub. The application features automatic programs for all seasons. Also, you're able to switch the pump on/off manually.
 
 The setup consists of an Arduino Nano (ATmega328P) controlling a relay. The pump is connected through an extension cord to the relay. The whole controlling unit and the pump is powered by mains power.
